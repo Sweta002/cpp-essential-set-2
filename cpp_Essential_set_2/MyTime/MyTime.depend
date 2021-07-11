@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600678110 source:c:\users\training\downloads\set2\mytime\mytime.cc
+	"Mytime.h"
+	<iostream>
+
+1600678033 c:\users\training\downloads\set2\mytime\mytime.h
+
